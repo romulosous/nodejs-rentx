@@ -14,7 +14,7 @@
     "ecmaVersion": 12,
     "sourceType": "module"
   },
-  "plugins": ["prettier", "@typescript-eslint"],
+  "plugins": ["prettier", "@typescript-eslint", "eslint-plugin-import-helpers"],
   "rules": {
     "camelcase": "off",
     "@typescript-eslint/naming-convention": [
